@@ -1,0 +1,2 @@
+# EduGenie-Google-Gemini-Powered-Learning-Assistant
+EduGenie is an intelligent, adaptive educational platform designed to transform traditional study routines into interactive,personalized learning journeys.Built on the multimodal foundation of Google Gemini and guided by learning science frameworks like LearnLM,EduGenie bridges the gap between passive content consumption and active concept mastery.
